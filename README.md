@@ -1,4 +1,5 @@
-__Title__ Spotify Clone - HTML, CSS, JavaScript Audio Module, Fetch API
+<h2>Title</h2>
+ Spotify Clone - HTML, CSS, JavaScript Audio Module, Fetch API
 
 :Description:
 This project is a simple yet feature-rich Spotify clone created using HTML, CSS, and JavaScript. The application leverages 
